@@ -1,0 +1,12 @@
+node是一个让javascript运行在服务器端的开发平台，它让javascript的触角伸到服务器端
+node特点:
+1.单线程
+2.非阻塞I/O
+3.事件驱动
+AMD 和CMD的区别
+favicon.icon
+reques请求
+response响应
+writeHead写入响应头  
+requir和impor的区别
+fs= file文件  system系统   fs文件系统  
