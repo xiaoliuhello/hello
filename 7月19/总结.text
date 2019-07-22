@@ -6,3 +6,34 @@ post  body-parser
 send可以写对象或者字符串
 sen只可以写字符串
 如果涉及到动态传输必须用send
+
+模板引擎
+ejs
+art-template
+express-art-template
+
+
+cookie
+特点：
+保存在浏览器本地，只要不过期就会存在
+容易受到攻击
+代销不能超过4k
+
+git分布式管理
+本地区  暂存区  服务区
+git init 项目初始化
+git status 查看当前项目的状态码
+git add . 添加所有文件
+git commit -m  提交     这时候只存到暂存区
+git remote add origin
+git push -u origin master 第一次提交
+git push   后续提交
+
+git branch 列出所有分支
+git branch -r 列出远端所有分支
+git branch -a 列出本地和远端的所有分支
+git branch 名称    创建分支但是停留在当前分支
+git checkout 名称  切换分支
+git checkout -b 名称   创建并切换到当前分支
+
+git push --set-upstream origin 分支名称  上传到远端分支
